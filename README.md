@@ -61,9 +61,15 @@ I enjoy learning new technologies and improving my problem-solving skills throug
 
 ---
 
-## 📌 Pinned Repositories  
-_(Go to GitHub → Customize Profile → Pin at least 3 repos)_
 
+## 📌 Pinned Repositories  
+
+
+https://github.com/sakibulla/PH_AS-10_Client
+
+https://github.com/sakibulla/API_AS01
+
+https://github.com/sakibulla/HERO.IO
 ---
 
 <p align="left">
