@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK" alt="Banner" width="100%" />
+  <img src="Screenshot 2025-11-19 001046.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Md. Fahmidul Hasan</h1>
